@@ -71,7 +71,7 @@ categories and one or more items in _each_:
       <li>Grilled Cheese</li>
     </ul>
   </li>
-  <li>Snacks
+  <li>Snacks <!--Snacks is missing a <ul> tag --->
     <li>Nacho Cheese French Fries</li>
     <li>Cheese and crackers</li>
   </li>
